@@ -14,4 +14,4 @@ npm install
 Finally, start the server using the following command:
 npm start
 
-The server will start listening on port 5500.
+The server will start listening on http://localhost:5500.
